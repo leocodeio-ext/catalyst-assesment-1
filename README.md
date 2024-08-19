@@ -1,3 +1,12 @@
+sriHarshini
+
+
+
+
+
+
+
+<<<<<<< main
 # YouTube Video Chat Application
 
 This is a Gradio-based web application that allows users to interact with a YouTube video through chat. Users can input a YouTube URL and ask questions about the video's content, or simply ask questions without providing a URL. The application utilizes the Google Generative AI model (`gemini-1.5-flash`) to generate responses based on the video's transcript (if available) and the chat history.
@@ -16,3 +25,8 @@ To get started with this application, you'll need to install the necessary depen
 ### Prerequisites
 
 Ensure you have `Python 3.x` installed. You'll also need `pip` to install the required packages.
+=======
+
+
+"Complete the project and send pull requests"
+>>>>>>> sriHarshini
