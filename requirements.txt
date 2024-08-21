@@ -1,0 +1,8 @@
+youtube-transcript-api
+sentence-transformers
+gradio
+python-dotenv
+google-cloud-language
+langchain
+langchain-google-genai
+scikit-learn
